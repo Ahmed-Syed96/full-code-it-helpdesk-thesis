@@ -1,7 +1,8 @@
 #IT Helpdesk Ticket Submission Client and Ticket Management Administrator Applications.
 
 # Prerequisites
-Make sure you have Python installed on your system. The application uses majority of the python builtin libraries except 1,You will need to install the `customtkinter` library in your machine:
+Make sure you have Python installed on your system. The application uses majority of the python builtin libraries except 1,You will need to install the `customtkinter` library in your machine:```pip install customtkinter```
+
 
 ## Project Structure
 The applications need to be stored locally on the machine in a same directory to function. Both applications are launched via their own respective terminal instance.
